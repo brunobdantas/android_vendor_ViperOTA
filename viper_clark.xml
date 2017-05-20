@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>Viper-clark</RomName>
+  <VersionName><![CDATA[ Viper-clark-7.1.2.Naja-v1.0-20170519 ]]></VersionName>
+  <VersionNumber type="integer">20170519</VersionNumber>
+  <DirectUrl></DirectUrl>
+  <HttpUrl>https://www.androidfilehost.com/user/?w=settings-dev-files&flid=179041</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5></CheckMD5>
+  <FileSize type="integer"></FileSize>
+  <Developer>R Schunk (rkschunk), Gustavo Campos (BIRDMan))</Developer>
+  <AddonCount>3</AddonCount>
+  <AddonsURL>https://raw.githubusercontent.com/Viper0S/android_vendor_ViperOTA/n-mr1/addons.xml</AddonsURL>
+  <WebsiteURL nil="true">https://plus.google.com/communities/112731559207528820150</WebsiteURL>
+  <Changelog></Changelog>
+</ROM>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hash>
+    <addons>
+        <addon>
+            <id>1</id>
+            <name>Magisk Uninstaller</name>
+            <description>Use ROM without root</description>
+            <published-at>2017-03-20</published-at>
+            <size>4779378</size>
+            <download-link>https://sourceforge.net/projects/viperos-roms/files/Addons/Magisk-uninstaller-20170320.zip/download</download-link>
+        </addon>
+        <addon>
+            <id>2</id>
+            <name>Pixel Add-ons V1</name>
+            <description>Replace the apps *Dialer *Contacts *Messenger By Google Pixel apps</description>
+            <published-at>2017-03-15</published-at>
+            <size>24082070</size>
+            <download-link>https://sourceforge.net/projects/viperos-roms/files/Addons/Pixel%20Add-ons%20V1.zip/download</download-link>
+        </addon>
+        <addon>
+            <id>3</id>
+            <name>Android O Emojis</name>
+            <description>Replace android N emojis for new android O emojis</description>
+            <published-at>2017-05-18</published-at>
+            <size>6958547</size>
+            <download-link>https://sourceforge.net/projects/viperos-roms/files/Addons/Android%20O%20Emojis.zip/download</download-link>
+        </addon>
+    </addons>
+</hash>
